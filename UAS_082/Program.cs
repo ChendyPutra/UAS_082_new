@@ -188,4 +188,4 @@ namespace UAS_082
 //2.saya menggunakan 
 //3.push,pop
 //4.
-//5.
+//5.//
