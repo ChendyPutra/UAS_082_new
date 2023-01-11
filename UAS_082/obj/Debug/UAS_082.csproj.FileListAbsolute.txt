@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\UAS_082\UAS_082\bin\Debug\UAS_082.exe.config
+C:\Users\HP\source\repos\UAS_082\UAS_082\bin\Debug\UAS_082.exe
+C:\Users\HP\source\repos\UAS_082\UAS_082\bin\Debug\UAS_082.pdb
+C:\Users\HP\source\repos\UAS_082\UAS_082\obj\Debug\UAS_082.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UAS_082\UAS_082\obj\Debug\UAS_082.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\UAS_082\UAS_082\obj\Debug\UAS_082.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UAS_082\UAS_082\obj\Debug\UAS_082.exe
+C:\Users\HP\source\repos\UAS_082\UAS_082\obj\Debug\UAS_082.pdb
